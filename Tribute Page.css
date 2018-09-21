@@ -1,0 +1,68 @@
+
+.background{
+    background-color: white;
+    padding-top:25px;
+    padding-bottom: 25px;
+}
+.flex-layout{
+    background-color:#f2f2f2;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   
+    font-family:sans-serif;
+    color: #333333; 
+    
+    
+    padding-left:10px;
+    padding-right: 10px; 
+}
+
+#header{    
+    text-align: center;
+   
+    
+    border-radius: 10px;
+        
+    
+    padding-bottom: 20px;
+    
+    
+    
+}
+#img{
+      text-align: center;
+       background-color: white;
+     border-radius: 10px;
+        
+    
+}
+#main{
+      
+      background-color: #f2f2f2;
+    padding-left: 350px;
+    padding-right: 350px
+      
+    
+}
+#finalwords{
+     text-align: center;
+      background-color: #f2f2f2;
+   
+    padding-left:50px;
+    padding-right: 50px;
+        
+    
+      
+    
+}
+
+#footer{
+    text-align: center;
+    background-color: #f2f2f2;
+    border-radius: 10px;
+    
+    
+    padding:  20px;
+    
+}
